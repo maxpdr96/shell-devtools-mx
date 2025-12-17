@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.gitattributes
+mvnw
+mvnw.cmd
+shell-devtools-mx.log
+.mvn
