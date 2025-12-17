@@ -1,5 +1,6 @@
 package com.hidarisoft.shelldevtoolsmx.json;
 
+import com.hidarisoft.shelldevtoolsmx.json.service.JsonFileService;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;

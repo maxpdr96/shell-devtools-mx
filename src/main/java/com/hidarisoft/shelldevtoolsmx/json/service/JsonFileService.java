@@ -1,4 +1,4 @@
-package com.hidarisoft.shelldevtoolsmx.json;
+package com.hidarisoft.shelldevtoolsmx.json.service;
 
 import org.springframework.stereotype.Service;
 
